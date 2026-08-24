@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/pricing",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Clipora",
+      "hasCanvas": false,
+      "bodyTextLen": 574,
+      "bodyTextHash": "8ba7d710fda1a2086ed136a5917f2a48257b59ea8d891ccac185776f32551673",
+      "bodyTextPrefix": "Clipora Features How it works Pricing Pricing that scales with y",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/pricing.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Clipora",
+      "hasCanvas": false,
+      "bodyTextLen": 563,
+      "bodyTextHash": "a022cd1a8c1a8692599442695de27603422a7012983162b4258f676bc3ea5854",
+      "bodyTextPrefix": "Clipora Log in Try Clipora Pricing that scales with you Credits ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/pricing-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/pricing.json"
+}

@@ -1,0 +1,40 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Clipora",
+      "hasCanvas": false,
+      "bodyTextLen": 1277,
+      "bodyTextHash": "7cea2b980d8246f67abafac057c668d0eb05e8ce50f19f2cfba9924e93a2c9c0",
+      "bodyTextPrefix": "Clipora Features How it works Pricing Log in Try Clipora Join cr",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/prod-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Clipora",
+      "hasCanvas": false,
+      "bodyTextLen": 1247,
+      "bodyTextHash": "714abd2f4dbfa6590b6efb9c326a117ae4566a2451571df9f91492a3476055b5",
+      "bodyTextPrefix": "Clipora Log in Try Clipora Join creators shipping daily Shorts C",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/prod-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/prod-preview.json",
+  "divergesFromBaseline": true,
+  "baselineReasons": [
+    "desktop: body text replaced (similar length, page start changed)"
+  ]
+}
